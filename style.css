@@ -17,4 +17,23 @@ body {
     text-align: center;
     color: white;
     font-size: 75px;
+    -webkit-text-stroke-color: #c0a148;
+    -webkit-text-stroke-width: 2px;
+}
+
+.text_input_box{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    color: blue;
+    background-color:aliceblue;
+    min-width: 600px;
+    max-width: 800px;
+}
+
+.text_input_box input{
+    background-color: rgb(78, 78, 135);
+    color: white;
+    width: 90px;
 }
