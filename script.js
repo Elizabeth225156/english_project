@@ -64,7 +64,7 @@ function filterData(name, id) {
             <p><strong>Fitness:</strong> ${result.fitness || "N/A"}</p>
             <p><strong>Class:</strong> ${result.class || "N/A"}</p>
             <p><strong>Wage:</strong> $${result.wage || "N/A"}</p>
-            <p><strong>Job:</strong> ${result.job || "N/A"}</p> <!-- ✅ ADDED -->
+            <p><strong>Job:</strong> ${result.job || "N/A"}</p>
         </div>
     `;
     } else {
