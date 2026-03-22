@@ -1,39 +1,105 @@
 body {
-    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    font-family: "Audiowide", sans-serif;
+
+    background: 
+        linear-gradient(rgba(10, 15, 25, 0.5), rgba(10, 15, 25, 0.6)),
+        url("8203.jpg");
+
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     background-attachment: fixed;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(0, 0, 0, 0.3)), url('8203.jpg');
-    background-size: cover;
+
+    min-height: 100vh;
 }
 
-.tech-font {
-  font-family: "Audiowide", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.heading{
+.heading {
     text-align: center;
-    color: white;
-    font-size: 75px;
-    -webkit-text-stroke-color: #c0a148;
-    -webkit-text-stroke-width: 2px;
+    color: #f5d97b;
+    font-size: 70px;
+    margin-top: 30px;
+    text-shadow: 0 0 15px rgba(255, 215, 100, 0.6);
 }
 
-.text_input_box{
-    /* display: flex; */
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-    color: blue;
-    background-color:aliceblue;
-    min-width: 600px;
-    max-width: 800px;
+.text_input_box {
+    margin: 40px auto;
+    padding: 30px;
+    width: 350px;
+
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.4);
+    color: white;
 }
 
-.text_input_box input{
-    background-color: rgb(78, 78, 135);
+.text_input_box input {
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 10px;
+
+    border: none;
+    border-radius: 8px;
+
+    background: rgba(255, 255, 255, 0.2);
     color: white;
-    width: 90px;
+}
+
+.text_input_box input::placeholder {
+    color: #ddd;
+}
+
+#submitButton {
+    width: 100%;
+    padding: 12px;
+
+    border: none;
+    border-radius: 8px;
+
+    background: #f5d97b;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+
+    transition: 0.3s;
+}
+
+#submitButton:hover {
+    background: #ffeaa7;
+    transform: scale(1.05);
+}
+
+.results {
+    text-align: center;
+}
+
+.resultsBox {
+    margin: 20px auto;
+    padding: 25px;
+    width: 350px;
+
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+
+    color: white;
+    box-shadow: 0 0 20px rgba(0,0,0,0.6);
+
+    min-height: 100px;
+}
+
+.result-card {
+    text-align: left;
+    line-height: 1.6;
+}
+
+.success {
+    color: #7bed9f;
+}
+
+.error {
+    color: #ff6b6b;
 }

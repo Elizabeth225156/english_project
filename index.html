@@ -19,12 +19,17 @@
 
         NAME: <input id="name" class="text_input" type="text">
         <br>
-        ID: <input id="id" class="text_input"type="text">
-        <br> <br>
+        ID: <input id="id" class="text_input" type="text">
+        <br><br>
 
-        <button onclick="clicked()">Submit your data to ERIS</button>
+        <button id="submitButton">Submit your data to ERIS</button>
     </div>
 
-    <script type="module" src="script.js"></script>
+    <div class="results">
+        <h1 class="tech-font heading">Results</h1>
+        <div class="resultsBox" id="resultsBox"></div>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>

@@ -1,7 +1,29 @@
 {
-    "People": [
-        {"id": "FILL IN LATER", "name": "Keira Baxter"},
-        {"id": "FILL IN LATER", "name": "Arushi Ghandi"},
-        {"id": "FILL IN LATER", "name": "Vida Venditti"}
-    ]
+  "People": [
+    {"id": "385925", "name": "Keira B", "math": "2", "reading": "5", "writing": "5", "logic": "4", "fitness": "4", "children": "3", "class": "upper", "wage": "180000"},
+    {"id": "105742", "name": "Aylin B", "math": "3", "reading": "3", "writing": "3", "logic": "3", "fitness": "5", "children": "3", "class": "middle", "wage": "100000"},
+    {"id": "573902", "name": "Konner C", "math": "5", "reading": "3", "writing": "3", "logic": "4", "fitness": "4", "children": "1", "class": "lower", "wage": "30000"},
+    {"id": "193756", "name": "Marcella D", "math": "4", "reading": "3", "writing": "3", "logic": "5", "fitness": "3", "children": "4", "class": "middle", "wage": "100000"},
+    {"id": "196743", "name": "Elizabeth E", "math": "5", "reading": "3", "writing": "3", "logic": "5", "fitness": "4", "children": "1", "class": "upper", "wage": "180000"},
+    {"id": "735295", "name": "Mikayla E", "math": "2", "reading": "4", "writing": "2", "logic": "2", "fitness": "3", "children": "0", "class": "lower", "wage": "30000"},
+    {"id": "395662", "name": "Jocelyn G", "math": "3", "reading": "5", "writing": "4", "logic": "3", "fitness": "4", "children": "1", "class": "middle", "wage": "100000"},
+    {"id": "195046", "name": "Arushi G", "math": "5", "reading": "3", "writing": "3", "logic": "4", "fitness": "4", "children": "2", "class": "upper", "wage": "180000"},
+    {"id": "016593", "name": "Aashi K", "math": "5", "reading": "5", "writing": "3", "logic": "4", "fitness": "4", "children": "3", "class": "upper", "wage": "180000"},
+    {"id": "105532", "name": "Anirvinya K", "math": "5", "reading": "3", "writing": "4", "logic": "5", "fitness": "3", "children": "1", "class": "middle", "wage": "100000"},
+    {"id": "053825", "name": "Mia L", "math": "3", "reading": "5", "writing": "4", "logic": "4", "fitness": "3", "children": "4", "class": "lower", "wage": "30000"},
+    {"id": "105752", "name": "Nina M", "math": "4", "reading": "4", "writing": "4", "logic": "3", "fitness": "3", "children": "5", "class": "middle", "wage": "100000"},
+    {"id": "856352", "name": "Jayden M", "math": "3", "reading": "5", "writing": "4", "logic": "3", "fitness": "3", "children": "1", "class": "middle", "wage": "100000"},
+    {"id": "992653", "name": "Timothy N", "math": "4", "reading": "3", "writing": "3", "logic": "5", "fitness": "5", "children": "2", "class": "lower", "wage": "30000"},
+    {"id": "602573", "name": "Sruvi P", "math": "5", "reading": "3", "writing": "3", "logic": "5", "fitness": "4", "children": "3", "class": "upper", "wage": "180000"},
+    {"id": "105005", "name": "Julie P", "math": "3", "reading": "5", "writing": "4", "logic": "4", "fitness": "5", "children": "1", "class": "middle", "wage": "100000"},
+    {"id": "293573", "name": "Shiona S", "math": "3", "reading": "4", "writing": "5", "logic": "4", "fitness": "4", "children": "1", "class": "middle", "wage": "100000"},
+    {"id": "195959", "name": "Zia S", "math": "3", "reading": "4", "writing": "4", "logic": "5", "fitness": "4", "children": "2", "class": "upper", "wage": "180000"},
+    {"id": "153323", "name": "Kaeleigh S", "math": "3", "reading": "5", "writing": "4", "logic": "4", "fitness": "3", "children": "1", "class": "lower", "wage": "30000"},
+    {"id": "153253", "name": "Vida V", "math": "5", "reading": "3", "writing": "4", "logic": "3", "fitness": "4", "children": "1", "class": "middle", "wage": "100000"},
+    {"id": "724915", "name": "Nikita V", "math": "5", "reading": "3", "writing": "4", "logic": "4", "fitness": "3", "children": "2", "class": "lower", "wage": "30000"},
+    {"id": "774562", "name": "Sushanth V", "math": "4", "reading": "3", "writing": "3", "logic": "5", "fitness": "4", "children": "2", "class": "middle", "wage": "100000"},
+    {"id": "197967", "name": "Megan Y", "math": "5", "reading": "4", "writing": "4", "logic": "5", "fitness": "4", "children": "1", "class": "middle", "wage": "100000"},
+    {"id": "253752", "name": "Stefan Y", "math": "3", "reading": "3", "writing": "4", "logic": "3", "fitness": "5", "children": "1", "class": "middle", "wage": "100000"},
+    {"id": "385925", "name": "Mrs. Gonnella", "math": "3", "reading": "5", "writing": "5", "logic": "4", "fitness": "5", "children": "6", "class": "middle", "wage": "100000"}
+  ]
 }
